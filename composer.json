@@ -1,0 +1,17 @@
+{
+    "name": "valeaciprian/workspace_php",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ciprian-hub",
+            "email": "cipssul@gmail.com"
+        }
+    ],
+    "require": {
+      "ext-pdo": "*"
+    }
+}
